@@ -1,0 +1,1232 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 768.77514 494.69799"
+   width="768.77515"
+   height="494.698"
+   version="1.1"
+   id="svg109"
+   sodipodi:docname="BENG207_model_2_schematic_AMN.svg"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   inkscape:export-filename="BENG207_model_2_schematic.jpg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview109"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="1.0806042"
+     inkscape:cx="149.45343"
+     inkscape:cy="111.97439"
+     inkscape:window-width="1920"
+     inkscape:window-height="1172"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg109">
+    <inkscape:page
+       x="0"
+       y="0"
+       width="768.77515"
+       height="494.698"
+       id="page127"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs15">
+    <linearGradient
+       id="waterFill"
+       x1="51.465832"
+       y1="430.00497"
+       x2="51.465832"
+       y2="755.68463"
+       gradientTransform="scale(1.5398566,0.64941111)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#d4eaf7"
+         id="stop1" />
+      <stop
+         offset="100%"
+         stop-color="#a8d4f0"
+         id="stop2" />
+    </linearGradient>
+    <linearGradient
+       id="glassFill"
+       x1="25.396124"
+       y1="1526.7316"
+       x2="25.396124"
+       y2="1687.4402"
+       gradientTransform="scale(3.1205551,0.32045581)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#c8dcc8"
+         id="stop3" />
+      <stop
+         offset="100%"
+         stop-color="#9ab89a"
+         id="stop4" />
+    </linearGradient>
+    <linearGradient
+       id="couplantFill"
+       x1="16.409035"
+       y1="2604.3921"
+       x2="16.409035"
+       y2="2708.23"
+       gradientTransform="scale(4.8296564,0.20705407)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#f5d6d6"
+         id="stop5" />
+      <stop
+         offset="100%"
+         stop-color="#e8a0a0"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       id="transducerFill"
+       x1="22.797533"
+       y1="1944.0947"
+       x2="22.797533"
+       y2="2088.3591"
+       gradientTransform="scale(3.4762533,0.28766603)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0%"
+         stop-color="#d4c8e8"
+         id="stop7" />
+      <stop
+         offset="100%"
+         stop-color="#a890d0"
+         id="stop8" />
+    </linearGradient>
+    <marker
+       id="arrowRed"
+       markerWidth="10"
+       markerHeight="7"
+       refX="10"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#c0392b"
+         id="path8" />
+    </marker>
+    <marker
+       id="arrowBlue"
+       markerWidth="10"
+       markerHeight="7"
+       refX="10"
+       refY="3.5"
+       orient="auto">
+      <path
+         d="M 0,0 10,3.5 0,7 Z"
+         fill="#2471a3"
+         id="path9" />
+    </marker>
+    <marker
+       id="arrowBlack"
+       markerWidth="8"
+       markerHeight="6"
+       refX="8"
+       refY="3"
+       orient="auto">
+      <path
+         d="M 0,0 8,3 0,6 Z"
+         fill="#333333"
+         id="path10" />
+    </marker>
+    <marker
+       id="arrowBlackRev"
+       markerWidth="8"
+       markerHeight="6"
+       refX="0"
+       refY="3"
+       orient="auto">
+      <path
+         d="M 8,0 0,3 8,6 Z"
+         fill="#333333"
+         id="path11" />
+    </marker>
+    <pattern
+       id="hatchV"
+       patternUnits="userSpaceOnUse"
+       width="5"
+       height="5"
+       patternTransform="rotate(45)">
+      <line
+         x1="0"
+         y1="0"
+         x2="0"
+         y2="5"
+         stroke="#777"
+         stroke-width="1"
+         id="line11" />
+    </pattern>
+    <radialGradient
+       id="organoidGrad">
+      <stop
+         offset="0%"
+         stop-color="#f5c6ec"
+         id="stop11" />
+      <stop
+         offset="70%"
+         stop-color="#d65db1"
+         id="stop12" />
+      <stop
+         offset="100%"
+         stop-color="#a0408a"
+         id="stop13" />
+    </radialGradient>
+    <!-- CI electrode gradient -->
+    <linearGradient
+       id="electrodeFill"
+       x1="0"
+       y1="0"
+       x2="0"
+       y2="1">
+      <stop
+         offset="0%"
+         stop-color="#e0d8a0"
+         id="stop14" />
+      <stop
+         offset="100%"
+         stop-color="#c0b060"
+         id="stop15" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#organoidGrad"
+       id="radialGradient110"
+       cx="188"
+       cy="395"
+       fx="188"
+       fy="395"
+       r="10.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-124.98322)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#organoidGrad"
+       id="radialGradient112"
+       cx="284"
+       cy="395"
+       fx="284"
+       fy="395"
+       r="10.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-124.98322)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#organoidGrad"
+       id="radialGradient114"
+       cx="380"
+       cy="395"
+       fx="380"
+       fy="395"
+       r="10.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-124.98322)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#organoidGrad"
+       id="radialGradient116"
+       cx="476"
+       cy="395"
+       fx="476"
+       fy="395"
+       r="10.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-124.98322)" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#organoidGrad"
+       id="radialGradient118"
+       cx="568"
+       cy="395"
+       fx="568"
+       fy="395"
+       r="10.5"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-124.98322)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#electrodeFill"
+       id="linearGradient118"
+       x1="89.880836"
+       y1="725.25092"
+       x2="89.880836"
+       y2="735.28284"
+       gradientTransform="matrix(1.4752866,0,0,0.67783439,0,-124.98322)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#electrodeFill"
+       id="linearGradient119"
+       x1="122.41689"
+       y1="725.25092"
+       x2="122.41689"
+       y2="735.28284"
+       gradientTransform="matrix(1.4752866,0,0,0.67783439,0,-124.98322)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#electrodeFill"
+       id="linearGradient120"
+       x1="154.95294"
+       y1="725.25092"
+       x2="154.95294"
+       y2="735.28284"
+       gradientTransform="matrix(1.4752866,0,0,0.67783439,0,-124.98322)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#electrodeFill"
+       id="linearGradient121"
+       x1="187.48898"
+       y1="725.25092"
+       x2="187.48898"
+       y2="735.28284"
+       gradientTransform="matrix(1.4752866,0,0,0.67783439,0,-124.98322)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#electrodeFill"
+       id="linearGradient122"
+       x1="220.02504"
+       y1="725.25092"
+       x2="220.02504"
+       y2="735.28284"
+       gradientTransform="matrix(1.4752866,0,0,0.67783439,0,-124.98322)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#electrodeFill"
+       id="linearGradient123"
+       x1="252.5611"
+       y1="725.25092"
+       x2="252.5611"
+       y2="735.28284"
+       gradientTransform="matrix(1.4752866,0,0,0.67783439,0,-124.98322)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#electrodeFill"
+       id="linearGradient124"
+       x1="285.09714"
+       y1="725.25092"
+       x2="285.09714"
+       y2="735.28284"
+       gradientTransform="matrix(1.4752866,0,0,0.67783439,0,-124.98322)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#electrodeFill"
+       id="linearGradient125"
+       x1="317.63321"
+       y1="725.25092"
+       x2="317.63321"
+       y2="735.28284"
+       gradientTransform="matrix(1.4752866,0,0,0.67783439,0,-124.98322)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#electrodeFill"
+       id="linearGradient126"
+       x1="350.16925"
+       y1="725.25092"
+       x2="350.16925"
+       y2="735.28284"
+       gradientTransform="matrix(1.4752866,0,0,0.67783439,0,-124.98322)"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#electrodeFill"
+       id="linearGradient127"
+       x1="379.99396"
+       y1="725.25092"
+       x2="379.99396"
+       y2="735.28284"
+       gradientTransform="matrix(1.4752866,0,0,0.67783439,0,-124.98322)"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <!-- Title -->
+  <text
+     x="403.0369"
+     y="49.667778"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="18px"
+     font-weight="bold"
+     fill="#222222"
+     id="text15">BENG207 Rigid Cavity Resonator — Lateral Standing Wave for Organoid Formation</text>
+  <text
+     x="416.40442"
+     y="77.503151"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="18.2537px"
+     fill="#888888"
+     id="text16"
+     transform="scale(0.9697362,1.0312083)"
+     style="fill:#1a1a1a;stroke-width:1.52114">Organoid spacing matched to cochlear implant electrode spacing (~1 mm)</text>
+  <!-- ============================================ -->
+  <!-- 3D ISOMETRIC VIEW                            -->
+  <!-- ============================================ -->
+  <!-- LAYER 1: LiNbO3 Transducer -->
+  <polygon
+     points="80,560 580,560 580,600 80,600 "
+     fill="url(#transducerFill)"
+     stroke="#7b68ae"
+     stroke-width="1.5"
+     id="polygon16"
+     style="fill:url(#transducerFill)"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="80,560 580,560 720,510 220,510 "
+     fill="#c4b8d8"
+     stroke="#7b68ae"
+     stroke-width="1"
+     id="polygon17"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="580,560 720,510 720,550 580,600 "
+     fill="#b0a0c8"
+     stroke="#7b68ae"
+     stroke-width="1"
+     id="polygon18"
+     transform="translate(0,-124.98322)" />
+  <text
+     x="330"
+     y="460.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="13px"
+     font-weight="bold"
+     fill="#4a3780"
+     id="text18">LiNbO₃ Transducer</text>
+  <text
+     x="330"
+     y="473.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="10px"
+     fill="#5a4890"
+     id="text19"
+     style="fill:#442178">Z₁ = 30.53 MRayl</text>
+  <!-- LAYER 2: US Gel Couplant -->
+  <polygon
+     points="80,540 580,540 580,560 80,560 "
+     fill="url(#couplantFill)"
+     stroke="#c0392b"
+     stroke-width="1.5"
+     stroke-dasharray="4, 2"
+     id="polygon19"
+     style="fill:url(#couplantFill)"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="80,540 580,540 720,490 220,490 "
+     fill="#f0c0c0"
+     stroke="#c0392b"
+     stroke-width="1"
+     stroke-dasharray="4, 2"
+     id="polygon20"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="580,540 720,490 720,510 580,560 "
+     fill="#e0a8a8"
+     stroke="#c0392b"
+     stroke-width="1"
+     stroke-dasharray="4, 2"
+     id="polygon21"
+     transform="translate(0,-124.98322)" />
+  <text
+     x="330"
+     y="429.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="10px"
+     font-weight="bold"
+     fill="#a93226"
+     id="text21">US Gel (h₂ = 5–50 µm, nearly transparent at 741 kHz)</text>
+  <!-- LAYER 3: Glass Superstrate -->
+  <polygon
+     points="80,490 580,490 580,540 80,540 "
+     fill="url(#glassFill)"
+     stroke="#4a7a4a"
+     stroke-width="1.5"
+     id="polygon22"
+     style="fill:url(#glassFill)"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="80,490 580,490 720,440 220,440 "
+     fill="#b0ccb0"
+     stroke="#4a7a4a"
+     stroke-width="1"
+     id="polygon23"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="580,490 720,440 720,490 580,540 "
+     fill="#98b898"
+     stroke="#4a7a4a"
+     stroke-width="1"
+     id="polygon24"
+     transform="translate(0,-124.98322)" />
+  <text
+     x="337.85236"
+     y="399.59735"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="12px"
+     font-weight="bold"
+     fill="#2e5a2e"
+     id="text24">Glass Superstrate</text>
+  <text
+     x="330"
+     y="409.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="10px"
+     fill="#3a6a3a"
+     id="text25">Z₃ = 12.58 MRayl</text>
+  <!-- LAYER 4: Fluid Channel -->
+  <polygon
+     points="80,280 580,280 580,490 80,490 "
+     fill="url(#waterFill)"
+     fill-opacity="0.6"
+     stroke="#2471a3"
+     stroke-width="1.5"
+     id="polygon25"
+     style="fill:url(#waterFill)"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="80,280 580,280 720,230 220,230 "
+     fill="#c0ddf0"
+     fill-opacity="0.5"
+     stroke="#2471a3"
+     stroke-width="1"
+     id="polygon26"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="580,280 720,230 720,440 580,490 "
+     fill="#a8ccdd"
+     fill-opacity="0.5"
+     stroke="#2471a3"
+     stroke-width="1"
+     id="polygon27"
+     transform="translate(0,-124.98322)" />
+  <text
+     x="352"
+     y="175.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="13px"
+     font-weight="bold"
+     fill="#1a5276"
+     id="text27">Fluid Channel (Water)</text>
+  <text
+     x="356"
+     y="191.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="10px"
+     fill="#21618c"
+     id="text28">c_f = 1483 m/s, Z_f = 1.48 MRayl</text>
+  <!-- RIGID SIDEWALLS -->
+  <!-- Left wall -->
+  <polygon
+     points="68,280 80,280 80,490 68,490 "
+     fill="#b0b0b0"
+     stroke="#555555"
+     stroke-width="1.5"
+     id="polygon28"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="68,280 80,280 220,230 208,230 "
+     fill="#a0a0a0"
+     stroke="#555555"
+     stroke-width="1"
+     id="polygon29"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="68,280 208,230 208,440 68,490 "
+     fill="#b0b0b0"
+     fill-opacity="0.5"
+     stroke="#555555"
+     stroke-width="1"
+     id="polygon30"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="68,280 208,230 208,440 68,490 "
+     fill="url(#hatchV)"
+     stroke="none"
+     id="polygon31"
+     transform="translate(0,-124.98322)" />
+  <!-- Right wall -->
+  <polygon
+     points="580,280 592,280 592,490 580,490 "
+     fill="#b0b0b0"
+     stroke="#555555"
+     stroke-width="1.5"
+     id="polygon32"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="580,280 592,280 732,230 720,230 "
+     fill="#a0a0a0"
+     stroke="#555555"
+     stroke-width="1"
+     id="polygon33"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="592,280 732,230 732,440 592,490 "
+     fill="#b0b0b0"
+     fill-opacity="0.5"
+     stroke="#555555"
+     stroke-width="1"
+     id="polygon34"
+     transform="translate(0,-124.98322)" />
+  <polygon
+     points="592,280 732,230 732,440 592,490 "
+     fill="url(#hatchV)"
+     stroke="none"
+     id="polygon35"
+     transform="translate(0,-124.98322)" />
+  <!-- Wall labels -->
+  <text
+     x="50"
+     y="260.01678"
+     text-anchor="end"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="10px"
+     font-weight="bold"
+     fill="#555555"
+     id="text35">Rigid</text>
+  <text
+     x="50"
+     y="273.01678"
+     text-anchor="end"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="10px"
+     font-weight="bold"
+     fill="#555555"
+     id="text36">Wall</text>
+  <text
+     x="50"
+     y="286.01678"
+     text-anchor="end"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="10px"
+     fill="#555555"
+     id="text37">|r| ≈ 0.79</text>
+  <text
+     x="50"
+     y="299.01678"
+     text-anchor="end"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="9px"
+     fill="#888888"
+     id="text38">(glass)</text>
+  <text
+     x="610"
+     y="260.01678"
+     text-anchor="start"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="10px"
+     font-weight="bold"
+     fill="#555555"
+     id="text39">Rigid</text>
+  <text
+     x="610"
+     y="273.01678"
+     text-anchor="start"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="10px"
+     font-weight="bold"
+     fill="#555555"
+     id="text40">Wall</text>
+  <text
+     x="610"
+     y="286.01678"
+     text-anchor="start"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="10px"
+     fill="#555555"
+     id="text41">|r| ≈ 0.79</text>
+  <text
+     x="610"
+     y="299.01678"
+     text-anchor="start"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="9px"
+     fill="#888888"
+     id="text42">(glass)</text>
+  <!-- ============================================ -->
+  <!-- LATERAL STANDING WAVE — wider spacing (~1mm) -->
+  <!-- Fewer, larger lobes than 200um version       -->
+  <!-- 10 nodes shown = 10mm channel example        -->
+  <!-- ============================================ -->
+  <!-- Standing wave envelope — 5 full wavelengths = 10 nodes -->
+  <!-- Upper envelope -->
+  <path
+     d="m 92,270.01678 q 48,-55 96,0 48,55 96,0 48,-55 96,0 48,55 96,0 48,-55 92,0"
+     fill="none"
+     stroke="#c030a0"
+     stroke-width="2.5"
+     stroke-opacity="0.8"
+     id="path42" />
+  <!-- Lower envelope -->
+  <path
+     d="m 92,270.01678 q 48,55 96,0 48,-55 96,0 48,55 96,0 48,-55 96,0 48,55 92,0"
+     fill="none"
+     stroke="#c030a0"
+     stroke-width="2.5"
+     stroke-opacity="0.8"
+     id="path43" />
+  <!-- Organoids at nodes (larger, fewer, spaced ~1mm apart) -->
+  <!-- 10 nodes for a 10mm channel -->
+  <circle
+     cx="188"
+     cy="270.01678"
+     r="10"
+     fill="url(#organoidGrad)"
+     fill-opacity="0.8"
+     stroke="#a0408a"
+     stroke-width="1"
+     id="circle44"
+     style="fill:url(#radialGradient110)" />
+  <circle
+     cx="284"
+     cy="270.01678"
+     r="10"
+     fill="url(#organoidGrad)"
+     fill-opacity="0.8"
+     stroke="#a0408a"
+     stroke-width="1"
+     id="circle46"
+     style="fill:url(#radialGradient112)" />
+  <circle
+     cx="380"
+     cy="270.01678"
+     r="10"
+     fill="url(#organoidGrad)"
+     fill-opacity="0.8"
+     stroke="#a0408a"
+     stroke-width="1"
+     id="circle48"
+     style="fill:url(#radialGradient114)" />
+  <circle
+     cx="476"
+     cy="270.01678"
+     r="10"
+     fill="url(#organoidGrad)"
+     fill-opacity="0.8"
+     stroke="#a0408a"
+     stroke-width="1"
+     id="circle50"
+     style="fill:url(#radialGradient116)" />
+  <circle
+     cx="568"
+     cy="270.01678"
+     r="10"
+     fill="url(#organoidGrad)"
+     fill-opacity="0.8"
+     stroke="#a0408a"
+     stroke-width="1"
+     id="circle52"
+     style="fill:url(#radialGradient118)" />
+  <!-- CI electrode contacts below glass (gold rectangles aligned with organoids) -->
+  <rect
+     x="133"
+     y="367.01678"
+     width="14"
+     height="6"
+     fill="url(#electrodeFill)"
+     stroke="#a09030"
+     stroke-width="0.8"
+     rx="1"
+     id="rect52"
+     style="fill:url(#linearGradient118)" />
+  <rect
+     x="181"
+     y="367.01678"
+     width="14"
+     height="6"
+     fill="url(#electrodeFill)"
+     stroke="#a09030"
+     stroke-width="0.8"
+     rx="1"
+     id="rect53"
+     style="fill:url(#linearGradient119)" />
+  <rect
+     x="229"
+     y="367.01678"
+     width="14"
+     height="6"
+     fill="url(#electrodeFill)"
+     stroke="#a09030"
+     stroke-width="0.8"
+     rx="1"
+     id="rect54"
+     style="fill:url(#linearGradient120)" />
+  <rect
+     x="277"
+     y="367.01678"
+     width="14"
+     height="6"
+     fill="url(#electrodeFill)"
+     stroke="#a09030"
+     stroke-width="0.8"
+     rx="1"
+     id="rect55"
+     style="fill:url(#linearGradient121)" />
+  <rect
+     x="325"
+     y="367.01678"
+     width="14"
+     height="6"
+     fill="url(#electrodeFill)"
+     stroke="#a09030"
+     stroke-width="0.8"
+     rx="1"
+     id="rect56"
+     style="fill:url(#linearGradient122)" />
+  <rect
+     x="373"
+     y="367.01678"
+     width="14"
+     height="6"
+     fill="url(#electrodeFill)"
+     stroke="#a09030"
+     stroke-width="0.8"
+     rx="1"
+     id="rect57"
+     style="fill:url(#linearGradient123)" />
+  <rect
+     x="421"
+     y="367.01678"
+     width="14"
+     height="6"
+     fill="url(#electrodeFill)"
+     stroke="#a09030"
+     stroke-width="0.8"
+     rx="1"
+     id="rect58"
+     style="fill:url(#linearGradient124)" />
+  <rect
+     x="469"
+     y="367.01678"
+     width="14"
+     height="6"
+     fill="url(#electrodeFill)"
+     stroke="#a09030"
+     stroke-width="0.8"
+     rx="1"
+     id="rect59"
+     style="fill:url(#linearGradient125)" />
+  <rect
+     x="517"
+     y="367.01678"
+     width="14"
+     height="6"
+     fill="url(#electrodeFill)"
+     stroke="#a09030"
+     stroke-width="0.8"
+     rx="1"
+     id="rect60"
+     style="fill:url(#linearGradient126)" />
+  <rect
+     x="561"
+     y="367.01678"
+     width="14"
+     height="6"
+     fill="url(#electrodeFill)"
+     stroke="#a09030"
+     stroke-width="0.8"
+     rx="1"
+     id="rect61"
+     style="fill:url(#linearGradient127)" />
+  <!-- CI electrode label -->
+  <line
+     x1="190"
+     y1="373.01678"
+     x2="190"
+     y2="385.01678"
+     stroke="#a09030"
+     stroke-width="0.8"
+     stroke-dasharray="2, 2"
+     id="line61" />
+  <text
+     x="195"
+     y="387.01678"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="9px"
+     fill="#8a7a20"
+     id="text61">CI electrode contacts (22-ch, ~1 mm spacing)</text>
+  <!-- Forward wave arrow -->
+  <line
+     x1="95"
+     y1="335.01678"
+     x2="300"
+     y2="335.01678"
+     stroke="#2471a3"
+     stroke-width="2.5"
+     marker-end="url(#arrowBlue)"
+     id="line62" />
+  <text
+     x="195"
+     y="350.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="12px"
+     font-weight="bold"
+     fill="#2471a3"
+     id="text62">Forward p⁺</text>
+  <!-- Reflected wave arrow -->
+  <line
+     x1="565"
+     y1="335.01678"
+     x2="400"
+     y2="335.01678"
+     stroke="#c0392b"
+     stroke-width="2.5"
+     marker-end="url(#arrowRed)"
+     id="line63" />
+  <text
+     x="480"
+     y="350.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="12px"
+     font-weight="bold"
+     fill="#c0392b"
+     id="text63">Reflected p⁻</text>
+  <!-- Node / Antinode labels -->
+  <text
+     x="277.99997"
+     y="220.01685"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="11px"
+     font-weight="bold"
+     fill="#c030a0"
+     id="text64"
+     style="stroke-width:0.999999">node</text>
+  <line
+     x1="280.49664"
+     y1="223.3255"
+     x2="280.49664"
+     y2="259.3255"
+     stroke="#c030a0"
+     stroke-width="0.8"
+     stroke-dasharray="3, 2"
+     id="line64" />
+  <text
+     x="338"
+     y="210.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="11px"
+     font-weight="bold"
+     fill="#c030a0"
+     id="text65">antinode</text>
+  <line
+     x1="336.72314"
+     y1="216.01678"
+     x2="336.72314"
+     y2="240.17786"
+     stroke="#c030a0"
+     stroke-width="1.01532"
+     stroke-dasharray="3, 2"
+     id="line65" />
+  <text
+     x="476"
+     y="220.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="11px"
+     font-weight="bold"
+     fill="#c030a0"
+     id="text66">node</text>
+  <line
+     x1="476"
+     y1="222.01678"
+     x2="476"
+     y2="258.01678"
+     stroke="#c030a0"
+     stroke-width="0.8"
+     stroke-dasharray="3, 2"
+     id="line66" />
+  <!-- λ/2 ≈ 1 mm dimension -->
+  <line
+     x1="188"
+     y1="300.01678"
+     x2="236"
+     y2="300.01678"
+     stroke="#333333"
+     stroke-width="1.2"
+     marker-start="url(#arrowBlackRev)"
+     marker-end="url(#arrowBlack)"
+     id="line67" />
+  <text
+     x="212"
+     y="315.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="10px"
+     font-weight="bold"
+     fill="#333333"
+     id="text67">λ/2 ≈ 1 mm</text>
+  <!-- L dimension -->
+  <line
+     x1="104"
+     y1="143.01678"
+     x2="604"
+     y2="143.01678"
+     stroke="#333333"
+     stroke-width="1.2"
+     marker-start="url(#arrowBlackRev)"
+     marker-end="url(#arrowBlack)"
+     id="line68" />
+  <text
+     x="392"
+     y="137.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="12px"
+     font-weight="bold"
+     fill="#333333"
+     id="text68">L = 5–20 mm (channel length)</text>
+  <!-- SW direction label -->
+  <text
+     x="416"
+     y="119.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="11px"
+     font-weight="bold"
+     fill="#c030a0"
+     id="text69">← Standing wave direction (lateral) →</text>
+  <!-- Vertical energy arrow -->
+  <line
+     x1="500"
+     y1="465.01678"
+     x2="500"
+     y2="373.01678"
+     stroke="#7b68ae"
+     stroke-width="2"
+     marker-end="url(#arrowBlack)"
+     id="line69" />
+  <text
+     x="507.58264"
+     y="450.23236"
+     text-anchor="start"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="8.6368px"
+     fill="#7b68ae"
+     id="text70"
+     style="fill:#892ca0;stroke-width:0.863679">Energy coupling</text>
+  <text
+     x="501.8385"
+     y="460.1293"
+     text-anchor="start"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="8.52445px"
+     fill="#7b68ae"
+     id="text71"
+     style="fill:#672178;stroke-width:0.852445">(vertical, from stack)</text>
+  <!-- Organoid callout -->
+  <line
+     x1="380"
+     y1="260.01678"
+     x2="430"
+     y2="215.01678"
+     stroke="#a0408a"
+     stroke-width="1"
+     stroke-dasharray="3, 2"
+     id="line71" />
+  <rect
+     x="415"
+     y="199.01678"
+     width="155"
+     height="35"
+     fill="#fdf0f8"
+     stroke="#a0408a"
+     stroke-width="1"
+     rx="4"
+     id="rect71" />
+  <text
+     x="492"
+     y="214.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="10px"
+     font-weight="bold"
+     fill="#a0408a"
+     id="text72">iPSC Organoids (~200 µm)</text>
+  <text
+     x="492"
+     y="228.01678"
+     text-anchor="middle"
+     font-family="Helvetica, Arial, sans-serif"
+     font-size="9px"
+     fill="#a0408a"
+     id="text73">1 per CI electrode, ~1 mm apart</text>
+  <!-- Neurite extension hint (dashed lines between organoids) -->
+  <line
+     x1="150"
+     y1="270.01678"
+     x2="178"
+     y2="270.01678"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line73" />
+  <line
+     x1="121.07779"
+     y1="270.017"
+     x2="149.07779"
+     y2="270.017"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line73-0" />
+  <line
+     x1="93.048874"
+     y1="269.99164"
+     x2="121.04887"
+     y2="269.99164"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line73-0-9" />
+  <line
+     x1="198"
+     y1="270.01678"
+     x2="226"
+     y2="270.01678"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line74" />
+  <line
+     x1="225.94653"
+     y1="270.017"
+     x2="253.94653"
+     y2="270.017"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line74-4" />
+  <line
+     x1="246"
+     y1="270.01678"
+     x2="274"
+     y2="270.01678"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line75" />
+  <line
+     x1="294"
+     y1="270.01678"
+     x2="322"
+     y2="270.01678"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line76" />
+  <line
+     x1="317.97406"
+     y1="270.05405"
+     x2="345.97406"
+     y2="270.05405"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line76-8" />
+  <line
+     x1="342"
+     y1="270.01678"
+     x2="370"
+     y2="270.01678"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line77" />
+  <line
+     x1="390"
+     y1="270.01678"
+     x2="418"
+     y2="270.01678"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line78" />
+  <line
+     x1="414.01675"
+     y1="269.86377"
+     x2="442.01675"
+     y2="269.86377"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line78-8" />
+  <line
+     x1="438"
+     y1="270.01678"
+     x2="466"
+     y2="270.01678"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line79" />
+  <line
+     x1="486"
+     y1="270.01678"
+     x2="514"
+     y2="270.01678"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line80" />
+  <line
+     x1="509.96457"
+     y1="270.017"
+     x2="537.96454"
+     y2="270.017"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line80-2" />
+  <line
+     x1="534"
+     y1="270.01678"
+     x2="558"
+     y2="270.01678"
+     stroke="#70a070"
+     stroke-width="1"
+     stroke-dasharray="2, 2"
+     id="line81" />
+  <!-- Neurite label -->
+  <!-- ================================================================ -->
+  <!-- RIGHT PANEL: Equations and Parameters                            -->
+  <!-- ================================================================ -->
+  <!-- Cavity resonance -->
+  <!-- Lateral pressure field -->
+  <!-- Wall reflection -->
+  <!-- Vertical coupling -->
+  <!-- Cochlear geometry box -->
+  <!-- Footer -->
+</svg>
