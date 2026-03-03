@@ -128,15 +128,16 @@ static Cpx cpx_sqrt(Cpx a)
 #endif
 
 /* Output directory — relative to executable */
-#define OUTPUT_DIR "/home/shh/Projects/BENG207_2/PLOT_CSV"
+#define OUTPUT_DIR "/home/shh/Projects/BENG207_Echo_Chamber_AMN/PLOT_CSV"
 
 /* ============================================================
  * Material parameters
  * ============================================================ */
+/* Parameters have been changed to reflect what we currently use */
 
 /* Fluid channel (water) — where the lateral standing wave forms */
 static const double rho_f = 1000.0;     /* kg/m^3 */
-static const double c_f   = 1483.0;     /* m/s */
+static const double c_f   = 1500;     /* m/s */
 
 /* Fluid attenuation model: alpha = alpha_coeff * f^2
  * For water at 25C: alpha_coeff ~ 25e-15 Np/m/Hz^2
@@ -145,8 +146,10 @@ static const double c_f   = 1483.0;     /* m/s */
 static const double alpha_coeff = 25.0e-15;  /* Np/m/Hz^2 */
 
 /* Wall materials */
-static const double rho_glass = 2230.0;     /* kg/m^3 */
-static const double c_glass   = 5640.0;     /* m/s */
+/* Glass*/
+static const double rho_glass = 2210.0;     /* kg/m^3 */
+static const double c_glass   = 5700.0;     /* m/s */
+
 
 static const double rho_si    = 2330.0;     /* kg/m^3 */
 static const double c_si      = 8433.0;     /* m/s (longitudinal) */
